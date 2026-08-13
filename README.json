@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "description": "Standout community servers by traction and activity.",
+      "items": [],
+      "title": "⭐ Featured"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Servers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dev, Code & Git"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases & Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cloud, DevOps & Monitoring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web, Search & Browser"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Productivity, Docs & Knowledge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communication & Social"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Commerce, Ads & Business"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI, Agents & Memory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media & 3D"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Finance & Crypto"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SDKs"
+    },
+    {
+      "description": "Core SDKs maintained by the MCP organization.",
+      "items": [],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "Tooling that helps you build, test, secure, deploy or manage MCP servers.",
+      "items": [],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:30:24.035Z",
+    "original_repository": "AlexMili/Awesome-MCP",
+    "original_repository_sha": "b5429c3a9421e812a5bb3a780a26fa88c08af02e",
+    "enhanced_repository": "enhansome/enhansome-Awesome-MCP",
+    "enhanced_repository_description": null,
+    "title": "Awesome MCP with stars"
+  }
+}
