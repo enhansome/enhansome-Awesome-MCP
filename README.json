@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T19:36:22Z",
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 176084
+            "stars": 176216
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T22:46:04Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36440
+            "stars": 36452
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-25T02:59:57Z",
+            "last_commit": "2026-08-25T15:48:23Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32479
+            "stars": 32497
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T11:12:00Z",
             "owner": "ahujasid",
             "repo": "blender-mcp",
-            "stars": 26267
+            "stars": 26289
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 952238700,
             "language": "Python",
-            "last_commit": "2026-08-25T02:36:33Z",
+            "last_commit": "2026-08-25T17:32:51Z",
             "owner": "awslabs",
             "repo": "mcp",
             "stars": 9636
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-12T20:00:35Z",
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6282
+            "stars": 6283
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-07-13T17:22:00Z",
             "owner": "lharries",
             "repo": "whatsapp-mcp",
-            "stars": 6190
+            "stars": 6191
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-20T12:52:03Z",
             "owner": "MarkusPfundstein",
             "repo": "mcp-obsidian",
-            "stars": 4334
+            "stars": 4336
           }
         }
       ],
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 942771284,
                 "language": "Go",
-                "last_commit": "2026-08-25T02:59:57Z",
+                "last_commit": "2026-08-25T15:48:23Z",
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32479
+                "stars": 32497
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-12T20:00:35Z",
                 "owner": "getsentry",
                 "repo": "XcodeBuildMCP",
-                "stars": 6282
+                "stars": 6283
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -390,7 +390,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             }
           ],
@@ -412,7 +412,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -427,7 +427,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -439,7 +439,7 @@
                 "archived": false,
                 "id": 952238700,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:36:33Z",
+                "last_commit": "2026-08-25T17:32:51Z",
                 "owner": "awslabs",
                 "repo": "mcp",
                 "stars": 9636
@@ -457,7 +457,7 @@
                 "last_commit": "2026-08-24T09:19:59Z",
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4108
+                "stars": 4110
               }
             },
             {
@@ -469,7 +469,7 @@
                 "archived": false,
                 "id": 937211343,
                 "language": "Python",
-                "last_commit": "2026-08-04T09:14:42Z",
+                "last_commit": "2026-08-25T09:15:34Z",
                 "owner": "zenml-io",
                 "repo": "mcp-zenml",
                 "stars": 49
@@ -488,6 +488,21 @@
                 "owner": "MindscapeHQ",
                 "repo": "mcp-server-raygun",
                 "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stackql",
+              "description": "SQL for cloud APIs. Query AWS, GCP, Azure and dozens of other providers with SQL. Includes an MCP server for agent access.  🟢 2d 874",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443987542,
+                "language": "Go",
+                "last_commit": "2026-08-24T01:27:39Z",
+                "owner": "stackql",
+                "repo": "stackql",
+                "stars": 874
               }
             }
           ],
@@ -509,7 +524,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -524,7 +539,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -539,7 +554,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -554,7 +569,7 @@
                 "last_commit": "2026-08-21T22:46:04Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36440
+                "stars": 36452
               }
             },
             {
@@ -584,7 +599,7 @@
                 "last_commit": "2026-03-06T15:24:03Z",
                 "owner": "pranciskus",
                 "repo": "newsmcp",
-                "stars": 52
+                "stars": 50
               }
             },
             {
@@ -646,6 +661,21 @@
                 "repo": "mcp-server-naver-search",
                 "stars": 1
               }
+            },
+            {
+              "node_type": "item",
+              "title": "StackScan",
+              "description": "Looks up the technologies on any domain and the company behind it, and reports how many sites run a given technology and where.  🟢 0d 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1322786566,
+                "language": "JavaScript",
+                "last_commit": "2026-08-25T08:33:30Z",
+                "owner": "stackscan",
+                "repo": "stackscan-mcp",
+                "stars": 1
+              }
             }
           ],
           "description": null,
@@ -666,7 +696,7 @@
                 "last_commit": "2026-08-19T19:36:22Z",
                 "owner": "microsoft",
                 "repo": "markitdown",
-                "stars": 176084
+                "stars": 176216
               }
             },
             {
@@ -681,7 +711,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -696,7 +726,7 @@
                 "last_commit": "2026-08-20T12:52:03Z",
                 "owner": "MarkusPfundstein",
                 "repo": "mcp-obsidian",
-                "stars": 4334
+                "stars": 4336
               }
             },
             {
@@ -708,10 +738,10 @@
                 "archived": false,
                 "id": 990355747,
                 "language": "TypeScript",
-                "last_commit": "2026-07-29T19:26:20Z",
+                "last_commit": "2026-08-25T18:56:13Z",
                 "owner": "taskade",
                 "repo": "mcp",
-                "stars": 165
+                "stars": 164
               }
             },
             {
@@ -748,7 +778,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -763,7 +793,7 @@
                 "last_commit": "2025-07-13T17:22:00Z",
                 "owner": "lharries",
                 "repo": "whatsapp-mcp",
-                "stars": 6190
+                "stars": 6191
               }
             },
             {
@@ -872,7 +902,7 @@
                 "archived": false,
                 "id": 1212338943,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T04:37:27Z",
+                "last_commit": "2026-08-25T12:44:31Z",
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
                 "stars": 10
@@ -887,7 +917,7 @@
                 "archived": false,
                 "id": 1190438371,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T12:54:05Z",
+                "last_commit": "2026-08-25T14:17:12Z",
                 "owner": "Nadeus",
                 "repo": "toolradar-mcp",
                 "stars": 3
@@ -1002,7 +1032,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -1067,6 +1097,21 @@
             },
             {
               "node_type": "item",
+              "title": "Skillselion",
+              "description": "Loads community agent skills on demand, materializing a matching SKILL.md and its bundled files into the session, and can merge the top matches into one provenance-tagged digest.  🟢 0d 0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276616087,
+                "language": "JavaScript",
+                "last_commit": "2026-08-25T03:03:51Z",
+                "owner": "skillselion",
+                "repo": "skillselion-mcp",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
               "title": "SandBase CLI",
               "description": "Local MCP bridge that connects 25 AI clients to 2,000+ models and APIs through six MCP tools.  🟢 0d 0",
               "children": [],
@@ -1077,7 +1122,7 @@
                 "last_commit": "2026-08-23T11:29:29Z",
                 "owner": "sandbaseai",
                 "repo": "cli",
-                "stars": 47
+                "stars": 50
               }
             }
           ],
@@ -1099,7 +1144,7 @@
                 "last_commit": "2026-08-24T11:12:00Z",
                 "owner": "ahujasid",
                 "repo": "blender-mcp",
-                "stars": 26267
+                "stars": 26289
               }
             },
             {
@@ -1114,7 +1159,7 @@
                 "last_commit": "2026-08-11T10:30:16Z",
                 "owner": "FunplayAI",
                 "repo": "funplay-unity-mcp",
-                "stars": 222
+                "stars": 224
               }
             },
             {
@@ -1188,7 +1233,7 @@
                 "last_commit": "2026-08-20T01:12:36Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89834
+                "stars": 89856
               }
             },
             {
@@ -1200,10 +1245,10 @@
                 "archived": false,
                 "id": 862584018,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:00:23Z",
+                "last_commit": "2026-08-25T15:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24115
+                "stars": 24120
               }
             },
             {
@@ -1215,10 +1260,10 @@
                 "archived": false,
                 "id": 862584018,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:00:23Z",
+                "last_commit": "2026-08-25T15:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24115
+                "stars": 24120
               }
             },
             {
@@ -1293,7 +1338,7 @@
                 "last_commit": "2026-08-23T15:09:14Z",
                 "owner": "livetennisapi",
                 "repo": "livetennisapi-mcp",
-                "stars": 191
+                "stars": 169
               }
             }
           ],
@@ -1349,7 +1394,7 @@
             "last_commit": "2026-08-24T16:46:53Z",
             "owner": "off-grid-ai",
             "repo": "OGAD",
-            "stars": 79
+            "stars": 80
           }
         }
       ],
@@ -1369,10 +1414,10 @@
                 "archived": false,
                 "id": 862584018,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:00:23Z",
+                "last_commit": "2026-08-25T15:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24115
+                "stars": 24120
               }
             },
             {
@@ -1384,10 +1429,10 @@
                 "archived": false,
                 "id": 862578138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:13:28Z",
+                "last_commit": "2026-08-25T17:15:35Z",
                 "owner": "modelcontextprotocol",
                 "repo": "typescript-sdk",
-                "stars": 13244
+                "stars": 13246
               }
             },
             {
@@ -1399,10 +1444,10 @@
                 "archived": false,
                 "id": 934753959,
                 "language": "Rust",
-                "last_commit": "2026-08-24T18:35:08Z",
+                "last_commit": "2026-08-25T18:59:04Z",
                 "owner": "modelcontextprotocol",
                 "repo": "rust-sdk",
-                "stars": 3838
+                "stars": 3841
               }
             },
             {
@@ -1414,10 +1459,10 @@
                 "archived": false,
                 "id": 971300888,
                 "language": "Go",
-                "last_commit": "2026-08-24T10:01:02Z",
+                "last_commit": "2026-08-25T15:15:09Z",
                 "owner": "modelcontextprotocol",
                 "repo": "go-sdk",
-                "stars": 5014
+                "stars": 5017
               }
             },
             {
@@ -1447,7 +1492,7 @@
                 "last_commit": "2026-08-24T06:15:38Z",
                 "owner": "modelcontextprotocol",
                 "repo": "csharp-sdk",
-                "stars": 4489
+                "stars": 4490
               }
             },
             {
@@ -1459,10 +1504,10 @@
                 "archived": false,
                 "id": 919609219,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:54:11Z",
+                "last_commit": "2026-08-25T13:28:25Z",
                 "owner": "modelcontextprotocol",
                 "repo": "java-sdk",
-                "stars": 3669
+                "stars": 3670
               }
             }
           ],
@@ -1481,10 +1526,10 @@
                 "archived": false,
                 "id": 896296825,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:15:38Z",
+                "last_commit": "2026-08-25T18:54:31Z",
                 "owner": "PrefectHQ",
                 "repo": "fastmcp",
-                "stars": 27367
+                "stars": 27373
               }
             },
             {
@@ -1511,7 +1556,7 @@
                 "archived": false,
                 "id": 929591639,
                 "language": "Rust",
-                "last_commit": "2026-08-24T17:15:30Z",
+                "last_commit": "2026-08-25T18:58:26Z",
                 "owner": "rust-mcp-stack",
                 "repo": "rust-mcp-sdk",
                 "stars": 191
@@ -1544,7 +1589,7 @@
                 "last_commit": "2026-08-12T12:29:17Z",
                 "owner": "mark3labs",
                 "repo": "mcp-go",
-                "stars": 9026
+                "stars": 9030
               }
             },
             {
@@ -1582,10 +1627,10 @@
             "archived": false,
             "id": 867337374,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:18:00Z",
+            "last_commit": "2026-08-25T13:19:32Z",
             "owner": "modelcontextprotocol",
             "repo": "inspector",
-            "stars": 10745
+            "stars": 10750
           }
         },
         {
@@ -1612,10 +1657,10 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-24T20:24:21Z",
+            "last_commit": "2026-08-25T15:54:33Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2038
+            "stars": 2039
           }
         },
         {
@@ -1717,7 +1762,7 @@
             "archived": false,
             "id": 952592883,
             "language": "Python",
-            "last_commit": "2026-08-24T21:40:47Z",
+            "last_commit": "2026-08-25T19:00:25Z",
             "owner": "Oaklight",
             "repo": "ToolRegistry",
             "stars": 60
@@ -1792,7 +1837,7 @@
             "archived": false,
             "id": 1212010692,
             "language": "Shell",
-            "last_commit": "2026-08-25T00:49:49Z",
+            "last_commit": "2026-08-25T16:02:03Z",
             "owner": "magertron",
             "repo": "orchestrator",
             "stars": 1
@@ -1837,7 +1882,7 @@
             "archived": false,
             "id": 1194284276,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:20:08Z",
+            "last_commit": "2026-08-25T15:20:09Z",
             "owner": "shibley",
             "repo": "mymcptools",
             "stars": 2
@@ -1863,10 +1908,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:15.802Z",
+    "last_updated": "2026-08-25T19:03:42.745Z",
     "original_repository": "AlexMili/Awesome-MCP",
     "original_repository_id": 896120399,
-    "original_repository_sha": "f1862a234ac96f6fd1325497d5d2f54cef652267",
+    "original_repository_sha": "7c1d259538f2c02ae656690e05792ff2dd13a8d5",
     "enhanced_repository": "enhansome/enhansome-Awesome-MCP",
     "enhanced_repository_description": null,
     "title": "Awesome MCP with stars"
