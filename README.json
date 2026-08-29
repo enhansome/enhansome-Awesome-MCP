@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1222620248,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:57:45Z",
+            "open_issues": 0,
             "owner": "socialrouter",
             "repo": "mcp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python tool for converting files and office documents to Markdown.",
+            "homepage": null,
             "id": 888092115,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T19:36:22Z",
+            "open_issues": 903,
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 176856
+            "stars": 176871,
+            "topics": [
+              "autogen",
+              "autogen-extension",
+              "langchain",
+              "markdown",
+              "microsoft-office",
+              "openai",
+              "pdf"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -42,12 +60,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright MCP server",
+            "homepage": "https://www.npmjs.com/package/@playwright/mcp",
             "id": 952688112,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:44:41Z",
+            "open_issues": 4,
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36587
+            "stars": 36592,
+            "topics": [
+              "mcp",
+              "playwright"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -58,12 +84,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub's official MCP Server",
+            "homepage": null,
             "id": 942771284,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:17:47Z",
+            "open_issues": 333,
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32587
+            "stars": 32587,
+            "topics": [
+              "github",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -74,12 +109,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community plugin to control Blender 3D with any LLM of your choice",
+            "homepage": "https://blendermcp.org",
             "id": 944414751,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:39:51Z",
+            "open_issues": 20,
             "owner": "ahujasid",
             "repo": "blender-mcp",
-            "stars": 26432
+            "stars": 26441,
+            "topics": [
+              "3d-modeling",
+              "ai",
+              "blender",
+              "blender-addon",
+              "claude",
+              "generative-ai",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -90,12 +141,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source MCP Servers for AWS",
+            "homepage": "https://awslabs.github.io/mcp/",
             "id": 952238700,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:55:15Z",
+            "open_issues": 255,
             "owner": "awslabs",
             "repo": "mcp",
-            "stars": 9643
+            "stars": 9643,
+            "topics": [
+              "aws",
+              "mcp",
+              "mcp-client",
+              "mcp-clients",
+              "mcp-host",
+              "mcp-server",
+              "mcp-servers",
+              "mcp-tools",
+              "modelcontextprotocol"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -106,12 +172,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+            "homepage": "https://www.xcodebuildmcp.com",
             "id": 945551361,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T20:00:35Z",
+            "open_issues": 22,
             "owner": "getsentry",
             "repo": "XcodeBuildMCP",
-            "stars": 6309
+            "stars": 6309,
+            "topics": [
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "model-context-protocol-servers",
+              "tag-non-production",
+              "xcode",
+              "xcodebuild"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -122,12 +201,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WhatsApp MCP server",
+            "homepage": "https://x.com/LukeHarries_/status/1905986562388635913",
             "id": 957053334,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-07-13T17:22:00Z",
+            "open_issues": 231,
             "owner": "lharries",
             "repo": "whatsapp-mcp",
-            "stars": 6203
+            "stars": 6203,
+            "topics": [
+              "ai",
+              "mcp",
+              "whatsapp",
+              "whatsapp-api"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -138,12 +227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server that interacts with Obsidian via the Obsidian rest API community plugin",
+            "homepage": null,
             "id": 896007696,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:52:03Z",
+            "open_issues": 100,
             "owner": "MarkusPfundstein",
             "repo": "mcp-obsidian",
-            "stars": 4350
+            "stars": 4350,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         }
@@ -162,12 +256,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -178,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -194,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -210,12 +319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -226,12 +340,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub's official MCP Server",
+                "homepage": null,
                 "id": 942771284,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:17:47Z",
+                "open_issues": 333,
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32587
+                "stars": 32587,
+                "topics": [
+                  "github",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -242,12 +365,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+                "homepage": "https://www.xcodebuildmcp.com",
                 "id": 945551361,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-12T20:00:35Z",
+                "open_issues": 22,
                 "owner": "getsentry",
                 "repo": "XcodeBuildMCP",
-                "stars": 6309
+                "stars": 6309,
+                "topics": [
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-servers",
+                  "tag-non-production",
+                  "xcode",
+                  "xcodebuild"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -258,12 +394,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
+                "homepage": null,
                 "id": 895547074,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-11-24T15:46:55Z",
+                "open_issues": 25,
                 "owner": "mark3labs",
                 "repo": "mcp-filesystem-server",
-                "stars": 679
+                "stars": 679,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -274,12 +415,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structural code intelligence for AI agents — semantic search, knowledge graphs, and a built-in MCP server in one Rust binary. Give Claude, Cursor, and any MCP client a deep understanding of your codebase.",
+                "homepage": "https://octomind.run/product/octocode",
                 "id": 994165011,
                 "language": "Rust",
-                "last_commit": "2026-08-28T17:35:46Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:44:59Z",
+                "open_issues": 5,
                 "owner": "Muvon",
                 "repo": "octocode",
-                "stars": 459
+                "stars": 459,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "claude-code",
+                  "cli",
+                  "code-intelligence",
+                  "code-search",
+                  "cursor",
+                  "developer-tools",
+                  "doc-search",
+                  "embeddings",
+                  "graphrag",
+                  "knowledge-graph",
+                  "lancedb",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "rag",
+                  "rust",
+                  "semantic-search",
+                  "tree-sitter"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -290,12 +457,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🐞 MCP Node.js debugger",
+                "homepage": "https://npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger",
                 "id": 950900117,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-11-13T14:41:00Z",
+                "open_issues": 1,
                 "owner": "workbackai",
                 "repo": "mcp-nodejs-debugger",
-                "stars": 303
+                "stars": 303,
+                "topics": [
+                  "debugger",
+                  "mcp",
+                  "mcp-server",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -306,12 +483,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VSCode Extension with an MCP server that exposes semantic tools like Find Usages and Rename to LLMs",
+                "homepage": null,
                 "id": 943705329,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-27T04:49:41Z",
+                "open_issues": 8,
                 "owner": "biegehydra",
                 "repo": "BifrostMCP",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "cline",
+                  "cursor",
+                  "cursor-ai",
+                  "developer-tools",
+                  "mcp",
+                  "mcp-server",
+                  "vscode",
+                  "vscode-extension",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -322,12 +514,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hoofy — AI development companion MCP server. Persistent memory, spec-driven development, adaptive change pipeline, Clarity Gate. 32 tools, single Go binary, zero deps.",
+                "homepage": "https://hendrycode.xyz/blog/2026/2/25/hoofy-tu-companion-de-desarrollo-con-ia-que-no-te-deja-cortar-camino/",
                 "id": 1162612963,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-12T18:41:50Z",
+                "open_issues": 0,
                 "owner": "HendryAvila",
                 "repo": "Hoofy",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "ai",
+                  "ai-assistant",
+                  "ai-coding",
+                  "ai-development",
+                  "ai-tools",
+                  "code-quality",
+                  "developer-tools",
+                  "go",
+                  "golang",
+                  "hoofy",
+                  "knowledge-graph",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "persistent-memory",
+                  "requirements-engineering",
+                  "spec-driven-development",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -338,12 +554,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✈️ 24-tool MCP server for Claude Code: preflight checks for your prompts, cross-service context, session history search with LanceDB vectors, correction pattern learning, cost estimation",
+                "homepage": "https://www.npmjs.com/package/preflight-dev",
                 "id": 1156411733,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-20T16:15:50Z",
+                "open_issues": 136,
                 "owner": "preflight-dev",
                 "repo": "preflight",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "code-quality",
+                  "cost-estimation",
+                  "developer-tools",
+                  "devtools",
+                  "lancedb",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "preflight",
+                  "prompt-engineering",
+                  "prompt-quality",
+                  "semantic-search",
+                  "token-optimization",
+                  "typescript",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -354,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 894460676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-26T12:26:29Z",
+                "open_issues": 0,
                 "owner": "philgei",
                 "repo": "mcp_server_filesystem",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -370,12 +617,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1060580541,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T07:44:54Z",
+                "open_issues": 0,
                 "owner": "Wopee-io",
                 "repo": "wopee-mcp",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -393,12 +645,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -409,12 +666,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -432,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -448,12 +715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -464,12 +736,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source MCP Servers for AWS",
+                "homepage": "https://awslabs.github.io/mcp/",
                 "id": 952238700,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:55:15Z",
+                "open_issues": 255,
                 "owner": "awslabs",
                 "repo": "mcp",
-                "stars": 9643
+                "stars": 9643,
+                "topics": [
+                  "aws",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-clients",
+                  "mcp-host",
+                  "mcp-server",
+                  "mcp-servers",
+                  "mcp-tools",
+                  "modelcontextprotocol"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -480,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 895268756,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T09:19:59Z",
+                "open_issues": 56,
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4123
+                "stars": 4123,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -496,12 +788,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server to connect an MCP client (Cursor, Claude Desktop etc) with your ZenML MLOps and LLMOps pipelines",
+                "homepage": "https://www.zenml.io",
                 "id": 937211343,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T09:15:34Z",
+                "open_issues": 2,
                 "owner": "zenml-io",
                 "repo": "mcp-zenml",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "llmops",
+                  "mcp",
+                  "mcp-server",
+                  "mlops"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -512,12 +814,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Give your AI coding assistants access to Raygun so they can investigate, explain, and help resolve errors for you.",
+                "homepage": "https://raygun.com/",
                 "id": 895741231,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-02T01:57:41Z",
+                "open_issues": 3,
                 "owner": "MindscapeHQ",
                 "repo": "mcp-server-raygun",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "error-reporting",
+                  "llm-agents",
+                  "mcp",
+                  "real-user-monitoring"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -528,12 +840,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query, provision and operate Cloud, SaaS, API and Model Context Protocol (MCP) resources through a unified SQL-based framework for humans and AI agents.",
+                "homepage": "https://stackql.io/",
                 "id": 443987542,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T01:27:39Z",
+                "open_issues": 102,
                 "owner": "stackql",
                 "repo": "stackql",
-                "stars": 894
+                "stars": 895,
+                "topics": [
+                  "ai-agents",
+                  "asset-management",
+                  "cloud",
+                  "cloud-automation",
+                  "cloud-config",
+                  "cloud-operations",
+                  "cloud-security",
+                  "cspm",
+                  "identity-governance",
+                  "infrastructure-as-code",
+                  "llm-tools",
+                  "mcp",
+                  "model-context-protocol",
+                  "sql",
+                  "stackql",
+                  "xops"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -551,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -567,12 +906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -583,12 +927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -599,12 +948,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playwright MCP server",
+                "homepage": "https://www.npmjs.com/package/@playwright/mcp",
                 "id": 952688112,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:44:41Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36587
+                "stars": 36592,
+                "topics": [
+                  "mcp",
+                  "playwright"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -615,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model-Context Protocol Server for YouTube",
+                "homepage": null,
                 "id": 891110939,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T10:30:36Z",
+                "open_issues": 11,
                 "owner": "anaisbetts",
                 "repo": "mcp-youtube",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -631,12 +993,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for real-time world news — free, no API key required",
+                "homepage": null,
                 "id": 1171659575,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-06T15:24:03Z",
+                "open_issues": 0,
                 "owner": "pranciskus",
                 "repo": "newsmcp",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "ai-agents",
+                  "claude",
+                  "llm",
+                  "llm-tools",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "news",
+                  "news-api",
+                  "newsmcp",
+                  "openclaw",
+                  "real-time-news",
+                  "world-news"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -647,12 +1028,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol server implementation for Kagi's API",
+                "homepage": "https://modelcontextprotocol.io/",
                 "id": 895066066,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-13T12:52:50Z",
+                "open_issues": 5,
                 "owner": "ac3xx",
                 "repo": "mcp-servers-kagi",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "kagi",
+                  "model-context-protocol"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -663,12 +1052,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude can perform Web Search | Exa with MCP (Model Context Protocol)",
+                "homepage": null,
                 "id": 899593525,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-11-30T18:34:38Z",
+                "open_issues": 0,
                 "owner": "theishangoswami",
                 "repo": "exa-mcp-server",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -679,12 +1073,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find MCP - stdio MCP client for the agentage MCP directory (catalog.agentage.io/mcp) - npx -y @agentage/find-mcp",
+                "homepage": "https://catalog.agentage.io/mcp",
                 "id": 1300999234,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:37:43Z",
+                "open_issues": 0,
                 "owner": "agentage",
                 "repo": "find-mcp",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "mcp",
+                  "mcp-client",
+                  "mcp-directory",
+                  "model-context-protocol",
+                  "search",
+                  "stdio"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -695,12 +1101,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for Naver Search (Shopping, Cafe, News). Essential for Korean users.",
+                "homepage": null,
                 "id": 1132634636,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-12T12:04:35Z",
+                "open_issues": 0,
                 "owner": "uju777",
                 "repo": "mcp-server-naver-search",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "anthropic",
+                  "cafe",
+                  "claude",
+                  "claude-code",
+                  "cursor",
+                  "korea",
+                  "korean",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-servers",
+                  "model-context-protocol",
+                  "naver",
+                  "naver-api",
+                  "naver-news",
+                  "naver-search",
+                  "naver-search-tool",
+                  "python",
+                  "search-api",
+                  "shopping"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -711,12 +1142,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for the StackScan Tech Lookup API. Ask Claude, Cursor or any MCP client what a website is built with and who is behind it.",
+                "homepage": "https://www.stackscan.com/mcp",
                 "id": 1322786566,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T08:33:30Z",
+                "open_issues": 0,
                 "owner": "stackscan",
                 "repo": "stackscan-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ai-agents",
+                  "api-client",
+                  "builtwith",
+                  "claude",
+                  "cursor",
+                  "firmographics",
+                  "mcp",
+                  "model-context-protocol",
+                  "tech-stack",
+                  "technographics",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -734,12 +1182,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python tool for converting files and office documents to Markdown.",
+                "homepage": null,
                 "id": 888092115,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T19:36:22Z",
+                "open_issues": 903,
                 "owner": "microsoft",
                 "repo": "markitdown",
-                "stars": 176856
+                "stars": 176871,
+                "topics": [
+                  "autogen",
+                  "autogen-extension",
+                  "langchain",
+                  "markdown",
+                  "microsoft-office",
+                  "openai",
+                  "pdf"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -750,12 +1211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -766,12 +1232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server that interacts with Obsidian via the Obsidian rest API community plugin",
+                "homepage": null,
                 "id": 896007696,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T12:52:03Z",
+                "open_issues": 100,
                 "owner": "MarkusPfundstein",
                 "repo": "mcp-obsidian",
-                "stars": 4350
+                "stars": 4350,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -782,12 +1253,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Taskade MCP · Official MCP server and OpenAPI to MCP codegen. Build AI agent tools from any OpenAPI API and connect to Claude, Cursor, and more.",
+                "homepage": "https://taskade.com/blog/mcp",
                 "id": 990355747,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:56:13Z",
+                "open_issues": 11,
                 "owner": "taskade",
                 "repo": "mcp",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "integrations",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "model-context-protocol-server",
+                  "model-context-protocol-servers",
+                  "no-code-automation",
+                  "openapi",
+                  "openapi-codegen",
+                  "openapi3",
+                  "productivity",
+                  "taskade",
+                  "workflow",
+                  "workflow-automation",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -798,12 +1295,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persistent, interactive MCP Apps for any MCP host: the AI builds an app once, you both reuse it — data outlives the conversation. Ships an engine, a 22-app App Store, and a hosted version at openmcp.app",
+                "homepage": "https://openmcp.app",
                 "id": 1307873912,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T06:14:29Z",
+                "open_issues": 0,
                 "owner": "2nd1st",
                 "repo": "open-mcp-apps",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "dsh",
+                  "mcp",
+                  "mcp-apps",
+                  "model-context-protocol",
+                  "persistent-ui",
+                  "sqlite",
+                  "ui",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -821,12 +1334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -837,12 +1355,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WhatsApp MCP server",
+                "homepage": "https://x.com/LukeHarries_/status/1905986562388635913",
                 "id": 957053334,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-07-13T17:22:00Z",
+                "open_issues": 231,
                 "owner": "lharries",
                 "repo": "whatsapp-mcp",
-                "stars": 6203
+                "stars": 6203,
+                "topics": [
+                  "ai",
+                  "mcp",
+                  "whatsapp",
+                  "whatsapp-api"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -853,12 +1381,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for PostEverywhere — let Claude Code, Claude Desktop, Cursor & other MCP clients schedule social media posts to Instagram, X, TikTok, LinkedIn, YouTube, Facebook, Threads",
+                "homepage": "https://posteverywhere.ai/developers",
                 "id": 1223119275,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T18:50:05Z",
+                "open_issues": 1,
                 "owner": "posteverywhere",
                 "repo": "mcp",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "claude-desktop",
+                  "cursor",
+                  "facebook",
+                  "gemini-cli-extension",
+                  "instagram",
+                  "linkedin",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "scheduling",
+                  "social-media",
+                  "threads",
+                  "tiktok",
+                  "youtube"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -869,12 +1423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1222620248,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:57:45Z",
+                "open_issues": 0,
                 "owner": "socialrouter",
                 "repo": "mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -885,12 +1444,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for sms-florin — rent a real UK phone number and receive SMS/OTP codes from AI coding agents (Claude, Cursor, Codex...)",
+                "homepage": "https://flo-voice1.com",
                 "id": 1323625412,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T17:17:34Z",
+                "open_issues": 0,
                 "owner": "flovoice53-tech",
                 "repo": "sms-florin-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-agent",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "otp",
+                  "phone-verification",
+                  "qa-testing",
+                  "sms",
+                  "sms-verification",
+                  "test-automation"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -901,12 +1476,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server that gives an AI agent a disposable email address and a real UK phone number to test signup/verification flows end to end",
+                "homepage": "https://www.npmjs.com/package/agent-identity-mcp",
                 "id": 1330599216,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:31:15Z",
+                "open_issues": 0,
                 "owner": "flovoice53-tech",
                 "repo": "agent-identity-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "ai-agent",
+                  "claude",
+                  "claude-code",
+                  "disposable-email",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "otp",
+                  "qa-testing",
+                  "sms",
+                  "temp-email",
+                  "test-automation"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -924,12 +1517,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude/Cursor에서 쿠팡 검색. 최저가 비교, 로켓배송 표시, 중고상품도 검색됨. API 키 불필요.",
+                "homepage": "https://huggingface.co/spaces/uju777/coupang-mcp",
                 "id": 1137149460,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-13T03:18:24Z",
+                "open_issues": 0,
                 "owner": "uju777",
                 "repo": "coupang-mcp",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "ai-assistant",
+                  "claude",
+                  "coupang",
+                  "cursor",
+                  "e-commerce",
+                  "korea",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "shopping"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -940,12 +1549,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official MCP server for Frihet ERP — 157 tools for AI-powered invoicing, tax & e-invoicing compliance (VeriFactu, TicketBAI, Facturae), banking, CRM, HR/payroll & POS. Works with Claude, ChatGPT, Cursor, Windsurf, Cline, Antigravity, Codex, Copilot, Gemini CLI — and any MCP-compatible client.",
+                "homepage": "https://frihet.io",
                 "id": 1155891223,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:39:01Z",
+                "open_issues": 12,
                 "owner": "Frihet-io",
                 "repo": "frihet-mcp",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "accounting",
+                  "ai",
+                  "ai-agent",
+                  "ai-native",
+                  "automation",
+                  "billing",
+                  "business-management",
+                  "claude",
+                  "claude-code-plugin",
+                  "claude-code-skill",
+                  "cloudflare-workers",
+                  "erp",
+                  "fintech",
+                  "invoicing",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "saas",
+                  "tax-compliance",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -956,12 +1591,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BuyWhere MCP server — search 300M+ products across US, Singapore & SEA via Model Context Protocol. Agents self-register a free key in one POST (no email): api.buywhere.ai/v1/auth/register?verify=false",
+                "homepage": "https://buywhere.ai",
                 "id": 1212338943,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:24:11Z",
+                "open_issues": 10,
                 "owner": "BuyWhere",
                 "repo": "buywhere-mcp",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "a2a",
+                  "agent2agent",
+                  "ai-agent",
+                  "buywhere",
+                  "claude",
+                  "commerce",
+                  "cursor",
+                  "e-commerce",
+                  "hackernews",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "product-catalog",
+                  "shopping",
+                  "singapore",
+                  "us"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -972,12 +1629,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server to search, compare, and recommend software tools. 8,400+ tools with verified pricing, G2/Capterra ratings, and real alternatives. Works with Claude, Cursor, Windsurf.",
+                "homepage": "https://toolradar.com/for-agents",
                 "id": 1190438371,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:17:12Z",
+                "open_issues": 0,
                 "owner": "Nadeus",
                 "repo": "toolradar-mcp",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "cursor",
+                  "developer-tools",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "pricing",
+                  "saas",
+                  "software-discovery",
+                  "software-tools",
+                  "tool-comparison",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -988,12 +1666,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for freelancers — draft winning proposals in your voice from a client brief",
+                "homepage": "https://jabbawocky.github.io/proposalcraft/",
                 "id": 1257169791,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-22T20:24:59Z",
+                "open_issues": 0,
                 "owner": "jabbawocky",
                 "repo": "proposalcraft",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ai-agent",
+                  "ai-tools",
+                  "anthropic",
+                  "business-development",
+                  "claude",
+                  "claude-code",
+                  "claude-desktop",
+                  "consultant",
+                  "cursor-ai",
+                  "freelance",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "npx",
+                  "productivity",
+                  "proposal-generator",
+                  "proposal-writing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1004,12 +1706,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for extracting commerce intelligence from recipe content",
+                "homepage": null,
                 "id": 1175247007,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-08T04:32:24Z",
+                "open_issues": 0,
                 "owner": "teamsincetoday",
                 "repo": "recipe-commerce-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "affiliate-marketing",
+                  "ai",
+                  "claude",
+                  "cloudflare-workers",
+                  "commerce",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "recipe",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1020,12 +1738,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ad network for AI agents. Monetize your MCP server with 20 lines of code. 70/30 revenue split.",
+                "homepage": "https://agentic-ads.onrender.com",
                 "id": 1151838574,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-16T16:39:45Z",
+                "open_issues": 26,
                 "owner": "nicofains1",
                 "repo": "agentic-ads",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "advertising",
+                  "ai",
+                  "ai-agents",
+                  "claude",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "monetization",
+                  "sdk",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1036,12 +1770,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comply — All-in-one compliance skills library for AI coding agents. 12 production-grade skills to get physical products legally to market.",
+                "homepage": "https://cleolabs.co",
                 "id": 1251661784,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-09T18:06:36Z",
+                "open_issues": 13,
                 "owner": "Cleo-Labs-IA",
                 "repo": "skills_library",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "ai-skills",
+                  "anthropic",
+                  "claude-code",
+                  "compliance",
+                  "cosmetics",
+                  "electronics",
+                  "fda",
+                  "food",
+                  "mcp",
+                  "mcp-server",
+                  "medical-devices",
+                  "npm-package",
+                  "open-source",
+                  "product-compliance",
+                  "reach",
+                  "regulatory",
+                  "supplements",
+                  "textiles",
+                  "toys",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1052,12 +1812,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for extracting commerce intelligence from podcast transcripts",
+                "homepage": null,
                 "id": 1175246498,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-08T04:32:22Z",
+                "open_issues": 0,
                 "owner": "teamsincetoday",
                 "repo": "podcast-commerce-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "affiliate-marketing",
+                  "ai",
+                  "claude",
+                  "cloudflare-workers",
+                  "commerce",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "podcast",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1068,12 +1844,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for extracting commerce intelligence from newsletter content",
+                "homepage": null,
                 "id": 1175246991,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-08T04:32:23Z",
+                "open_issues": 0,
                 "owner": "teamsincetoday",
                 "repo": "newsletter-commerce-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "affiliate-marketing",
+                  "ai",
+                  "claude",
+                  "cloudflare-workers",
+                  "commerce",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "newsletter",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1091,12 +1883,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1107,12 +1904,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Query OpenAI models directly from Claude using MCP protocol.",
+                "homepage": null,
                 "id": 895352626,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-28T03:48:15Z",
+                "open_issues": 6,
                 "owner": "pierrebrunelle",
                 "repo": "mcp-server-openai",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1123,12 +1925,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EGC gives every AI coding agent the same brain. Shared memory, skills, and live context across Cursor, Claude Code, Copilot, Aider, and 20+ AI coding tools with zero configuration. Every tab, terminal, and AI stays automatically synchronized. One brain. Everywhere.",
+                "homepage": "https://fmarzochi.github.io/EGCSite/",
                 "id": 1231288768,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T16:10:28Z",
+                "open_issues": 13,
                 "owner": "Fmarzochi",
                 "repo": "EGC",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "agent-memory",
+                  "agentic-workflows",
+                  "ai-agents",
+                  "ai-memory",
+                  "aider",
+                  "claude-code",
+                  "context-engineering",
+                  "copilot",
+                  "cursor",
+                  "developer-tools",
+                  "local-first",
+                  "mcp",
+                  "mcp-server",
+                  "multi-agent-orchestration",
+                  "persistent-memory",
+                  "shared-context",
+                  "token-optimization",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1139,12 +1965,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP-native task management for AI agent fleets",
+                "homepage": null,
                 "id": 1178182568,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-29T14:03:47Z",
+                "open_issues": 1,
                 "owner": "Writbase",
                 "repo": "writbase",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "agent-coordination",
+                  "agent-framework",
+                  "ai-agents",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "multi-agent",
+                  "supabase",
+                  "task-management"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1155,12 +1996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server that exposes PraisonAI tools for Claude Desktop, Cursor, and other MCP clients",
+                "homepage": null,
                 "id": 1119194574,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-13T13:58:19Z",
+                "open_issues": 0,
                 "owner": "MervinPraison",
                 "repo": "praisonai-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1171,12 +2017,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server to search Skillselion's curated directory of Claude Code skills, MCP servers & plugin marketplaces, ranked by installs and GitHub stars.",
+                "homepage": "https://skillselion.com",
                 "id": 1276616087,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:03:51Z",
+                "open_issues": 0,
                 "owner": "skillselion",
                 "repo": "skillselion-mcp",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "claude",
+                  "claude-code",
+                  "claude-mcp",
+                  "directory",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "skillselion"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1187,12 +2051,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source AI CLI and local MCP server connecting 25 clients—Claude Code, Cursor, Codex, ChatGPT, Hermes, and OpenClaw—to 2,000+ models/APIs, with OAuth and rollback.",
+                "homepage": "https://sandbaseai.github.io/cli/",
                 "id": 1281133792,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:39:42Z",
+                "open_issues": 2,
                 "owner": "sandbaseai",
                 "repo": "cli",
-                "stars": 67
+                "stars": 69,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-coding",
+                  "ai-gateway",
+                  "chatgpt",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "cursor",
+                  "gemini-cli",
+                  "hermes-agent",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-routing",
+                  "multimodal-ai",
+                  "openclaw",
+                  "opencode",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1210,12 +2100,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community plugin to control Blender 3D with any LLM of your choice",
+                "homepage": "https://blendermcp.org",
                 "id": 944414751,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T07:39:51Z",
+                "open_issues": 20,
                 "owner": "ahujasid",
                 "repo": "blender-mcp",
-                "stars": 26432
+                "stars": 26441,
+                "topics": [
+                  "3d-modeling",
+                  "ai",
+                  "blender",
+                  "blender-addon",
+                  "claude",
+                  "generative-ai",
+                  "llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1226,12 +2132,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Most Advanced MCP Server for Unity Editor with execute_code, prompts/resources, input simulation, screenshots, and play mode automation.",
+                "homepage": null,
                 "id": 1179824727,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:16:28Z",
+                "open_issues": 2,
                 "owner": "FunplayAI",
                 "repo": "funplay-unity-mcp",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "ai",
+                  "ai-tools",
+                  "claude-code",
+                  "codex",
+                  "cursor",
+                  "game-development",
+                  "github-copilot",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "unity",
+                  "unity-editor",
+                  "unity-plugin",
+                  "windsurf"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1242,12 +2169,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make b-roll for your videos. Tell an agent what you want, get an MP4 back. Free local MCP server that drives Remotion.",
+                "homepage": "https://alichherawalla.github.io/video-overlay-kit/",
                 "id": 1269006042,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-15T03:52:56Z",
+                "open_issues": 0,
                 "owner": "alichherawalla",
                 "repo": "video-overlay-kit",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "broll",
+                  "claude-code",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "react",
+                  "remotion",
+                  "typescript",
+                  "vertical-video",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1258,12 +2201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Media Execution Control Layer for AI Agents. Reserve-execute-burn/refund pattern. FFmpeg post-processing (format conversion, audio normalization) Supports Flux2 Pro, Veo 3.1, Suno V5.",
+                "homepage": "https://vapagent.com/",
                 "id": 1152741486,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-06T15:29:27Z",
+                "open_issues": 0,
                 "owner": "elestirelbilinc-sketch",
                 "repo": "vap-showcase",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1281,12 +2229,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for autonomous agent economies: wallets, signed RTC micropayments, bounty discovery, BoTTube video publishing, and Beacon agent-to-agent messaging. Give your AI agent an income. Built on createkr's RustChain SDK.",
+                "homepage": "https://rustchain.org",
                 "id": 1176373929,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T05:42:36Z",
+                "open_issues": 12,
                 "owner": "Scottcjn",
                 "repo": "rustchain-mcp",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "agent-economy",
+                  "agent-payments",
+                  "agentic-workflows",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "blockchain",
+                  "depin",
+                  "llm-tools",
+                  "mcp",
+                  "mcp-server",
+                  "micropayments",
+                  "model-context-protocol",
+                  "multi-agent-systems",
+                  "proof-of-antiquity",
+                  "rustchain"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1304,12 +2273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89937
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1320,12 +2294,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Python SDK for Model Context Protocol servers and clients",
+                "homepage": "https://py.sdk.modelcontextprotocol.io/",
                 "id": 862584018,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:22:17Z",
+                "open_issues": 390,
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24148
+                "stars": 24149,
+                "topics": [
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1336,12 +2320,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Python SDK for Model Context Protocol servers and clients",
+                "homepage": "https://py.sdk.modelcontextprotocol.io/",
                 "id": 862584018,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:22:17Z",
+                "open_issues": 390,
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24148
+                "stars": 24149,
+                "topics": [
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1352,12 +2346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A macOS AppleScript MCP server",
+                "homepage": null,
                 "id": 896881705,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-19T20:24:27Z",
+                "open_issues": 11,
                 "owner": "joshrutkowski",
                 "repo": "applescript-mcp",
-                "stars": 393
+                "stars": 393,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1368,12 +2367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make MCP Server",
+                "homepage": null,
                 "id": 946079810,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-10T13:56:59Z",
+                "open_issues": 5,
                 "owner": "integromat",
                 "repo": "make-mcp-server",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1384,12 +2388,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage Dynadot domains, DNS, renewals, and transfers from Claude, Cursor, or any MCP client.",
+                "homepage": null,
                 "id": 1110576079,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T15:43:21Z",
+                "open_issues": 0,
                 "owner": "joachimBrindeau",
                 "repo": "domain-mcp",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "ai-agents",
+                  "dns-management",
+                  "domain-automation",
+                  "domain-management",
+                  "domain-registrar",
+                  "domain-registration",
+                  "domain-transfer",
+                  "dynadot",
+                  "dynadot-api",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "registrar-api",
+                  "typescript",
+                  "whois"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1400,12 +2425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "sheetsdata-mcp",
+                "homepage": null,
                 "id": 1186352167,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-26T15:57:50Z",
+                "open_issues": 0,
                 "owner": "octoco-ltd",
                 "repo": "sheetsdata-mcp",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1416,12 +2446,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+                "homepage": "https://docs.livetennisapi.com",
                 "id": 1305283849,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:09:14Z",
+                "open_issues": 2,
                 "owner": "livetennisapi",
                 "repo": "livetennisapi-mcp",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "ai",
+                  "claude",
+                  "live-scores",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "sports-api",
+                  "sports-data",
+                  "tennis",
+                  "tennis-api",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1443,12 +2491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "n8n custom node for MCP",
+            "homepage": null,
             "id": 932707770,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-02T02:49:03Z",
+            "open_issues": 76,
             "owner": "nerding-io",
             "repo": "n8n-nodes-mcp",
-            "stars": 3043
+            "stars": 3043,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1459,12 +2512,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Powerful Local AI Chat Application - Mcp, Secure, Efficient, Personalized 本地化部署的大模型客户端",
+            "homepage": "https://ee.chat",
             "id": 945965393,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T13:26:43Z",
+            "open_issues": 21,
             "owner": "Lucassssss",
             "repo": "eechat",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "deepseek",
+              "mcp",
+              "mcp-client"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1475,12 +2537,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Off Grid AI — private, on-device AI. Run open models (text, vision, image, voice) locally through one OpenAI-compatible gateway. No cloud, no accounts, no API keys.",
+            "homepage": "https://getoffgridai.co/pro/",
             "id": 1137228781,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T17:30:50Z",
+            "open_issues": 16,
             "owner": "off-grid-ai",
             "repo": "OGAD",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "electron",
+              "gguf",
+              "image-generation",
+              "llama-cpp",
+              "llm",
+              "local-ai",
+              "local-first",
+              "local-llm",
+              "mcp",
+              "offline",
+              "on-device",
+              "openai-compatible",
+              "privacy",
+              "react",
+              "stable-diffusion",
+              "typescript",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         }
@@ -1499,12 +2584,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Python SDK for Model Context Protocol servers and clients",
+                "homepage": "https://py.sdk.modelcontextprotocol.io/",
                 "id": 862584018,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:22:17Z",
+                "open_issues": 390,
                 "owner": "modelcontextprotocol",
                 "repo": "python-sdk",
-                "stars": 24148
+                "stars": 24149,
+                "topics": [
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1515,12 +2610,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official TypeScript SDK for Model Context Protocol servers and clients",
+                "homepage": "https://ts.sdk.modelcontextprotocol.io/v2",
                 "id": 862578138,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:23:50Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:07:34Z",
+                "open_issues": 594,
                 "owner": "modelcontextprotocol",
                 "repo": "typescript-sdk",
-                "stars": 13267
+                "stars": 13268,
+                "topics": [
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1531,12 +2636,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Rust SDK for the Model Context Protocol",
+                "homepage": "https://docs.rs/rmcp",
                 "id": 934753959,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:57:46Z",
+                "open_issues": 57,
                 "owner": "modelcontextprotocol",
                 "repo": "rust-sdk",
-                "stars": 3849
+                "stars": 3850,
+                "topics": [
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1547,12 +2662,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 971300888,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T14:06:11Z",
+                "open_issues": 90,
                 "owner": "modelcontextprotocol",
                 "repo": "go-sdk",
-                "stars": 5033
+                "stars": 5033,
+                "topics": [
+                  "go",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1563,12 +2686,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Kotlin SDK for Model Context Protocol servers and clients. Maintained in collaboration with JetBrains",
+                "homepage": "https://modelcontextprotocol.github.io/kotlin-sdk/",
                 "id": 904281964,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T18:56:58Z",
+                "open_issues": 80,
                 "owner": "modelcontextprotocol",
                 "repo": "kotlin-sdk",
-                "stars": 1443
+                "stars": 1443,
+                "topics": [
+                  "kotlin-multiplatform",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1579,12 +2710,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.",
+                "homepage": "https://csharp.sdk.modelcontextprotocol.io/",
                 "id": 946174307,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:20:34Z",
+                "open_issues": 165,
                 "owner": "modelcontextprotocol",
                 "repo": "csharp-sdk",
-                "stars": 4501
+                "stars": 4501,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "modelcontextprotocol"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1595,12 +2738,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+                "homepage": "https://java.sdk.modelcontextprotocol.io/latest/",
                 "id": 919609219,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:36:35Z",
+                "open_issues": 300,
                 "owner": "modelcontextprotocol",
                 "repo": "java-sdk",
-                "stars": 3672
+                "stars": 3672,
+                "topics": [
+                  "java",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1618,12 +2771,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+                "homepage": "https://gofastmcp.com",
                 "id": 896296825,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:01:50Z",
+                "open_issues": 292,
                 "owner": "PrefectHQ",
                 "repo": "fastmcp",
-                "stars": 27426
+                "stars": 27427,
+                "topics": [
+                  "agents",
+                  "fastmcp",
+                  "llms",
+                  "mcp",
+                  "mcp-clients",
+                  "mcp-servers",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1634,12 +2802,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tower-native Model Context Protocol (MCP) implementation",
+                "homepage": "https://docs.rs/tower-mcp",
                 "id": 1143689995,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T04:19:03Z",
+                "open_issues": 5,
                 "owner": "joshrotenberg",
                 "repo": "tower-mcp",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai",
+                  "json-rpc",
+                  "mcp",
+                  "mcp-s",
+                  "rust",
+                  "tokio",
+                  "tower"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1650,12 +2831,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance, asynchronous toolkit for building MCP servers and clients in Rust.",
+                "homepage": "https://rust-mcp-stack.github.io/rust-mcp-sdk/",
                 "id": 929591639,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:21:06Z",
+                "open_issues": 1,
                 "owner": "rust-mcp-stack",
                 "repo": "rust-mcp-sdk",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "crates-io",
+                  "mcp-client",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1666,12 +2859,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pragmatic AI Labs MCP SDK ",
+                "homepage": "https://paiml.github.io/rust-mcp-sdk/",
                 "id": 1026298429,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:03:16Z",
+                "open_issues": 19,
                 "owner": "paiml",
                 "repo": "rust-mcp-sdk",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "mcp",
+                  "paiml",
+                  "paiml-active-tool",
+                  "pdmt",
+                  "pmat",
+                  "pmcp",
+                  "rust",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1682,12 +2889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.",
+                "homepage": "http://mcp-go.dev/",
                 "id": 895029087,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-12T12:29:17Z",
+                "open_issues": 42,
                 "owner": "mark3labs",
                 "repo": "mcp-go",
-                "stars": 9036
+                "stars": 9038,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             },
@@ -1698,12 +2910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go-MCP is a powerful Go(Golang) version of the MCP SDK that implements the Model Context Protocol (MCP) to facilitate seamless communication between external systems and AI applications. ",
+                "homepage": null,
                 "id": 942391492,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-16T18:56:31Z",
+                "open_issues": 7,
                 "owner": "ThinkInAIXYZ",
                 "repo": "go-mcp",
-                "stars": 676
+                "stars": 676,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:47:29.421Z"
             }
@@ -1725,12 +2942,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual testing tool for MCP servers",
+            "homepage": "https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector",
             "id": 867337374,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:14:05Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:53:50Z",
+            "open_issues": 30,
             "owner": "modelcontextprotocol",
             "repo": "inspector",
-            "stars": 10780
+            "stars": 10782,
+            "topics": [
+              "cli",
+              "debug",
+              "mcp",
+              "tool",
+              "tui",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1741,12 +2970,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+            "homepage": null,
             "id": 905016458,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-25T16:35:16Z",
+            "open_issues": 134,
             "owner": "lastmile-ai",
             "repo": "mcp-agent",
-            "stars": 8522
+            "stars": 8523,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "llm",
+              "llms",
+              "mcp",
+              "model-context-protocol",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1757,12 +3000,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+            "homepage": "https://stacklok.com/download/",
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-28T20:28:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:50:43Z",
+            "open_issues": 376,
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2054
+            "stars": 2054,
+            "topics": [
+              "ai",
+              "ai-security",
+              "aicodeassistant",
+              "golang",
+              "kubernetes",
+              "mcp",
+              "mcp-security",
+              "mcp-servers",
+              "mcp-tools",
+              "model-context-protocol",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1773,12 +3033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server that installs other MCP servers for you",
+            "homepage": null,
             "id": 894640711,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-26T20:05:09Z",
+            "open_issues": 22,
             "owner": "anaisbetts",
             "repo": "mcp-installer",
-            "stars": 1532
+            "stars": 1532,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1789,12 +3054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to discover and install MCPs",
+            "homepage": "https://www.fleurmcp.com/",
             "id": 929858144,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-18T23:26:50Z",
+            "open_issues": 13,
             "owner": "fleuristes",
             "repo": "fleur",
-            "stars": 533
+            "stars": 533,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1805,12 +3075,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived: mcp-get is no longer maintained.",
+            "homepage": null,
             "id": 894786740,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T19:22:44Z",
+            "open_issues": 0,
             "owner": "michaellatman",
             "repo": "mcp-get",
-            "stars": 507
+            "stars": 507,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1821,12 +3096,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol tool support for LangChain",
+            "homepage": null,
             "id": 894556402,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-02T15:18:46Z",
+            "open_issues": 1,
             "owner": "rectalogic",
             "repo": "langchain-mcp",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1837,12 +3117,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface",
+            "homepage": "https://askbudi.ai/roundtable",
             "id": 1059882384,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-10-06T04:11:43Z",
+            "open_issues": 7,
             "owner": "yylo-dev",
             "repo": "roundtable",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "claude-code",
+              "cursor",
+              "gemini-cli",
+              "mcp-server",
+              "openai-codex",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1853,12 +3145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 950489540,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-19T00:29:24Z",
+            "open_issues": 10,
             "owner": "hjlarry",
             "repo": "dify-plugin-mcp_server",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1869,12 +3166,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ToolRegistry: A Protocol-Agnostic Tool Management Library for Function-Calling LLMs (OpenAI, Anthropic, Gemini, LangChain, MCP)",
+            "homepage": "https://toolregistry.readthedocs.io",
             "id": 952592883,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:32:15Z",
+            "open_issues": 10,
             "owner": "Oaklight",
             "repo": "ToolRegistry",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "ai-tools",
+              "anthropic",
+              "function-calling",
+              "gemini",
+              "langchain-tools",
+              "llm",
+              "mcp",
+              "openai",
+              "openapi",
+              "python",
+              "tool-calling",
+              "tool-management",
+              "tool-use"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1885,12 +3203,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic CI scanner and surface-risk scoring for MCP (Model Context Protocol) servers.",
+            "homepage": null,
             "id": 1195270700,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-09T18:44:10Z",
+            "open_issues": 2,
             "owner": "aak204",
             "repo": "MCP-Scorecard",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "agentic-ai",
+              "ci-cd",
+              "devsecops",
+              "llm-agents",
+              "mcp",
+              "model-context-protocol",
+              "python",
+              "security",
+              "static-analysis",
+              "trust-score"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1901,12 +3235,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark your MCP server.",
+            "homepage": null,
             "id": 1136203911,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-28T18:18:00Z",
+            "open_issues": 4,
             "owner": "greynewell",
             "repo": "mcpbr",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "benchmarking",
+              "llm-evaluation",
+              "machine-learning",
+              "mcp",
+              "ml-evaluation",
+              "model-context-protocol",
+              "python",
+              "swe-bench"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1917,12 +3265,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-memory testing toolkit for MCP servers in TypeScript - supertest for MCP",
+            "homepage": "https://partiti.dev",
             "id": 1167034827,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T11:13:47Z",
+            "open_issues": 9,
             "owner": "gabry-ts",
             "repo": "mcp-harness",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "test-toolkit",
+              "testing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1933,12 +3293,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source firewall for AI agents. Control what your agents do — policy enforcement, MCP security scanning, zero-trust identity, sandboxing, and reliability. 10/10 OWASP. One pip install.",
+            "homepage": null,
             "id": 1201380575,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-25T21:44:21Z",
+            "open_issues": 0,
             "owner": "Aveerayy",
             "repo": "agent-guard",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "agent-framework",
+              "ai-agents",
+              "ai-security",
+              "ai-security-toolkit",
+              "claude",
+              "crewai",
+              "langchain",
+              "llm-security",
+              "mcp",
+              "openai",
+              "owasp"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1949,12 +3326,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise MCP Server Management",
+            "homepage": "https://magertron.com/",
             "id": 1212010692,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:06:47Z",
+            "open_issues": 0,
             "owner": "magertron",
             "repo": "orchestrator",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "compliance",
+              "enterprise",
+              "governance",
+              "guardrails",
+              "mcp",
+              "metrics",
+              "multi-tenant-namespace-isolation",
+              "rollbacks",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1965,12 +3357,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web-based tool for inspecting MCP servers. Connect to any MCP server, browse its Tools, Resources, and Prompts, measure fetch latency, estimate token usage, score the quality of tool definitions, and compare two servers side by side, and scan for tool poisoning and rug pulls.",
+            "homepage": "https://ytkoka.github.io/mcp-tester/",
             "id": 1287016663,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-16T09:08:45Z",
+            "open_issues": 0,
             "owner": "ytkoka",
             "repo": "mcp-tester",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "llm",
+              "llm-tools",
+              "mcp",
+              "mcp-inspector",
+              "mcp-protocol",
+              "mcp-security",
+              "mcp-security-testing",
+              "mcp-tools",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1981,12 +3388,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reverse proxy that sits between an MCP client and a third-party remote MCP server for debugging. ",
+            "homepage": null,
             "id": 1297972729,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T00:14:58Z",
+            "open_issues": 0,
             "owner": "ytkoka",
             "repo": "mcp-debug-proxy",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "mcp",
+              "mcp-debug",
+              "mcp-proxy",
+              "mcp-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -1997,12 +3414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP Server Directory - Find and compare Model Context Protocol servers",
+            "homepage": "https://mymcptools.vercel.app",
             "id": 1194284276,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:20:08Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:20:09Z",
+            "open_issues": 4,
             "owner": "shibley",
             "repo": "mymcptools",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         },
@@ -2013,12 +3435,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One shared MCP daemon per machine instead of a stdio copy in every agent session: recipe, autostart templates for Windows/macOS/Linux, a watchdog that will not blind your live sessions, and the measurements to prove it",
+            "homepage": null,
             "id": 1330056066,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:35:50Z",
+            "open_issues": 0,
             "owner": "tonydzi",
             "repo": "mcp-daemon-diet",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "claude",
+              "claude-code",
+              "claude-skills",
+              "daemon",
+              "devops",
+              "mcp",
+              "model-context-protocol",
+              "performance",
+              "sse",
+              "streamable-http",
+              "watchdog",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:47:29.421Z"
         }
@@ -2027,15 +3469,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:47:29.421Z",
+    "last_updated": "2026-08-29T04:54:10.280Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome ModelContextProtocol resources - A curated list of MCP resources",
+      "homepage": null,
       "id": 896120399,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-25T06:45:52Z",
+      "open_issues": 4,
       "owner": "AlexMili",
       "repo": "Awesome-MCP",
-      "stars": 144
+      "stars": 144,
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "awesome",
+        "awesome-list",
+        "claude",
+        "mcp",
+        "model-context-protocol",
+        "tools"
+      ]
     },
     "original_repository_sha": "7c1d259538f2c02ae656690e05792ff2dd13a8d5",
     "enhanced_repository": "enhansome/enhansome-Awesome-MCP",
