@@ -509,6 +509,38 @@
             },
             {
               "node_type": "item",
+              "title": "ContextStream",
+              "description": "Shared project context for AI coding agents: hosted MCP with code search, decisions, lessons, and plans.  🟢 1d 43",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Shared project context for AI coding agents with code search, decisions, lessons, and plans across sessions and tools.",
+                "homepage": "https://contextstream.io",
+                "id": 1115350109,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-09-15T09:44:31Z",
+                "open_issues": 4,
+                "owner": "contextstream",
+                "repo": "mcp-server",
+                "stars": 43,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "context",
+                  "context-management",
+                  "cursor",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "rust"
+                ]
+              },
+              "first_seen": "2026-09-16T20:22:00.000Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hoofy",
               "description": "Spec-driven development companion with persistent memory (SQLite + FTS5 + knowledge graph), adaptive change pipeline, and greenfield project pipeline with Clarity Gate. 32 MCP tools, single binary, zero dependencies.  🟡 4mo 15",
               "children": [],
