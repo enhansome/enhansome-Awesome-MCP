@@ -10,7 +10,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 
 * [Servers](#servers)
   * [Dev, Code & Git](#dev-code--git) (23)
-  * [Databases & Data](#databases--data) (4)
+  * [Databases & Data](#databases--data) (5)
   * [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (12)
   * [Web, Search & Browser](#web-search--browser) (19)
   * [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (10)
@@ -81,6 +81,7 @@ Standout community servers by traction and activity.
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ⭐ 91,815 \| 🐛 11 \| 🌐 TypeScript \| 📅 2026-11-05 ✅       | Database interaction and business intelligence capabilities.                                                                                                                              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> |   🟢 3d  | 91.7k |
 | [Scento Perfume API](https://github.com/Scento-com/perfume-mcp-server) ⭐ 0 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-11-05                       | Remote, read-only perfume knowledge server for AI assistants: notes, families, raw materials and similar scents for 1,400+ perfumes, no API key.                                          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> |   🟢 5d  |     0 |
 | [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) ⭐ 0 \| 🐛 5 \| 🌐 Python \| 📅 2026-11-03                             | Public-sector tenders, grants and awards (SAM.gov, Grants.gov, USAspending, UK Find a Tender, EU TED) plus Legistar city council agendas and minutes, each with its official source link. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> |   🟢 0d  |     0 |
+| [DC Hub](https://github.com/azmartone67/dchub-mcp-server) ⭐ 3 \| 🐛 9 \| 🌐 JavaScript \| 📅 2026-11-06                                    | Live data for data-center site selection. DCPI scores grid power across 300+ markets. Remote MCP: https://dchub.cloud/mcp (94 tools); free tier, no key.                          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> |   🟢 0d  |     3 |
 
 ### Cloud, DevOps & Monitoring
 
