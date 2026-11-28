@@ -10,7 +10,7 @@ The Model Context Protocol (MCP) is an open protocol published by [Anthropic](ht
 
 * [Servers](#servers)
   * [Dev, Code & Git](#dev-code--git) (17)
-  * [Databases & Data](#databases--data) (2)
+  * [Databases & Data](#databases--data) (3)
   * [Cloud, DevOps & Monitoring](#cloud-devops--monitoring) (7)
   * [Web, Search & Browser](#web-search--browser) (9)
   * [Productivity, Docs & Knowledge](#productivity-docs--knowledge) (6)
@@ -72,6 +72,7 @@ Standout community servers by traction and activity.
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | :------: | ----: |
 | [PostgreSQL](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) ⭐ 92,300 \| 🐛 29 \| 🌐 TypeScript \| 📅 2026-11-27 ✅ | Read-only database access with schema inspection.            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> |   🟢 3d  | 92.2k |
 | [Sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) ⭐ 92,300 \| 🐛 29 \| 🌐 TypeScript \| 📅 2026-11-27 ✅       | Database interaction and business intelligence capabilities. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" title="TypeScript"> |   🟢 3d  | 92.2k |
+| [DC Hub](https://github.com/azmartone67/dchub-mcp-server) ⭐ 3 \| 🐛 15 \| 🌐 JavaScript \| 📅 2026-11-28 | Orchestration layer for data center and energy intelligence; start with execute_plan. Data Center Power Index (DCPI) scores grid power across 300+ markets. Remote MCP: https://dchub.cloud/mcp. DCHUB_API_KEY is optional. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" title="JavaScript"> | 🟢 0d | 3 |
 
 ### Cloud, DevOps & Monitoring
 
